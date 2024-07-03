@@ -1,45 +1,4 @@
-# print("Welcome to Roller Coster")
-# height=int(input('Enter your height:'))
-# price=0
-# if height>=160:
-#   age=int(input("Enter your age: "))
-#   if age < 12:
-#     price=5
-#     print(f"PLEASE PAY {price}$")
-#   elif age >= 12 and age <18:
-#     price=7
-#     print(f"PLEASE PAY {price}$")
-#   elif age>=45 and age <= 55:
-#     price=0
-#     print("Sorry about midlife crisis FREEEEEE BABYYYYY")
-#     print(f"PLEASE PAY {price}$")
-#   else:
-#     price = 10
-#     print(f"PLEASE PAY {price}$")
-    
-#   wants_photo=input("Enter Y to add photo and N to not add photo")
-#   if wants_photo == 'Y':
-#     price=price+3
-#     print(price)
-#   else:
-#     price=price+0
-#     print(price)
-# else:
-#   print("Height not above 160cm not allowed")
 
-# Which year do you want to check?
-# year = int(input())
-
-# if(year % 4==0):
-#   if(year % 100 == 0):
-#     if(year % 400 == 0):
-#       print("Leap year")
-#     else:
-#       print('Not leap year')
-#   else:
-#     print('Leap year')
-# else:
-#   print("Not leap year")
 
 print('''  ____________________________________________________________________
  / \-----     ---------  -----------     -------------- ------    ----\
